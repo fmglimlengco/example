@@ -94,3 +94,5 @@ do{
     console.log(i)
     i++
 }while (i<15) 
+    sadfdsaf
+    
